@@ -3,9 +3,9 @@ layout: default
 title: THM Writeups
 ---
 
-- [Basic Pentesting](/writeups/BasicPentesting)
-- [DiskAnalysis&Autopsy](/writeups/DiskAnalysis&Autopsy)
-- [MrRobotCTF](/writeups/MrRobotCTF)
-- [PickleRick](/writeups/PickleRick)
-- [RootMe](/writeups/RootMe)
-- [SimpleCTF](/writeups/SimpleCTF)
+- [Basic Pentesting](/THMWriteups/writeups/BasicPentesting)
+- [DiskAnalysis&Autopsy](/THMWriteups/writeups/DiskAnalysis&Autopsy)
+- [MrRobotCTF](/THMWriteups/writeups/MrRobotCTF)
+- [PickleRick](/THMWriteups/writeups/PickleRick)
+- [RootMe](/THMWriteups/writeups/RootMe)
+- [SimpleCTF](/THMWriteups/writeups/SimpleCTF)
