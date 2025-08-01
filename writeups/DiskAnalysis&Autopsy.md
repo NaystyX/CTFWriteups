@@ -1,8 +1,3 @@
----
-layout: default
-title: Disk Analysis & Autopsy
----
-
 # Disk Analysis & Autopsy
 
 https://tryhackme.com/room/autopsy2ze0
