@@ -6,7 +6,7 @@ https://tryhackme.com/room/rrootme
 
 As for all machines I start with ```nmap``` to see the ports open
 
-<img width="360" height="150" alt="image" src="https://github.com/user-attachments/assets/3d52709a-b770-43d2-a8e9-d60b70457697" />
+<img alt="image" src="https://github.com/user-attachments/assets/3d52709a-b770-43d2-a8e9-d60b70457697" />
 
 So I can see 2 ports open, ssh and http
 
@@ -22,13 +22,13 @@ Apache/2.4.29 and ssh
 
 Now gonna run ```gobuster dir -u 10.10.201.109 -w /usr/share/wordlists/dirbuster/directory-list.2.3-small.txt```
 
-<img width="360" height="150" alt="image" src="https://github.com/user-attachments/assets/8bb0ec69-3a83-4876-843e-b9c5779ff5cd" />
+<img alt="image" src="https://github.com/user-attachments/assets/8bb0ec69-3a83-4876-843e-b9c5779ff5cd" />
 
 ### What is the hidden directory?
 
 From gobuster I can see the hidden directory ```/panel/```
 
-<img width="150" height="360" alt="image" src="https://github.com/user-attachments/assets/0a19b2bb-02c4-48aa-b271-e06e39ff85c4" />
+<img alt="image" src="https://github.com/user-attachments/assets/0a19b2bb-02c4-48aa-b271-e06e39ff85c4" />
 
 Seems like I can upload files here
 
@@ -38,11 +38,11 @@ If I try to upload a ```php-reverse-shell.php``` it shows an error PHP not allow
 
 Changing the file to ```php-reverse-shell.php5``` allows it to upload
 
-<img width="360" height="150" alt="image" src="https://github.com/user-attachments/assets/cc7c63a9-a9e2-4fcc-9199-0b40d2346bd4" />
+<img alt="image" src="https://github.com/user-attachments/assets/cc7c63a9-a9e2-4fcc-9199-0b40d2346bd4" />
 
 Having the file in allows me to load it and having a netcat listen on my computer gives me access to the machine.
 
-<img width="360" height="150" alt="image" src="https://github.com/user-attachments/assets/d7d7c6c7-2bd0-4a09-9b22-5699208e92f6" />
+<img alt="image" src="https://github.com/user-attachments/assets/d7d7c6c7-2bd0-4a09-9b22-5699208e92f6" />
 
 Now we gotta find the user.txt flag somehow, using ```cat user.txt``` shows that no file found.
 
