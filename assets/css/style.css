@@ -1,3 +1,5 @@
+@import "{{ site.theme }}";
+
 img {
   max_width: 100%;
   height: auto;
