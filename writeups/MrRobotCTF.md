@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mr Robot CTF
+---
+
 # Mr Robot CTF
 
 https://tryhackme.com/room/mrrobot
