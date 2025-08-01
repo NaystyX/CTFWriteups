@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+}
+
+img {
+  max_width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
+}
