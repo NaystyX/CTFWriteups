@@ -33,7 +33,7 @@ Tho after giving my fake email it just put me back to the start. Although my gob
 
 Doing a robots.txt I found another page ```fsociety.dic``` which I had downloaded incase I need it, so that I can use it with hydra.
 
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0bdc7e11-01d8-45e6-a1f1-babe57b5775b" />
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/0bdc7e11-01d8-45e6-a1f1-babe57b5775b" />
 
 So I found a user ```Elliot```, lets try to hydra it's password with the same dictionary and get ```ER28-0652```
 
