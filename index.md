@@ -9,3 +9,4 @@ title: THM Writeups
 - [PickleRick](/THMWriteups/writeups/PickleRick)
 - [RootMe](/THMWriteups/writeups/RootMe)
 - [SimpleCTF](/THMWriteups/writeups/SimpleCTF)
+- [BountyHacker](/THMWriteups/writeups/BountyHacker)
