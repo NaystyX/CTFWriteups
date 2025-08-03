@@ -10,3 +10,5 @@ title: THM Writeups
 - [RootMe](/THMWriteups/writeups/RootMe)
 - [SimpleCTF](/THMWriteups/writeups/SimpleCTF)
 - [BountyHacker](/THMWriteups/writeups/BountyHacker)
+- [Wonderland](/THMWriteups/writeups/Wonderland)
+- [Mustacchio](/THMWriteups/writeups/Mustacchio)
