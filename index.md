@@ -12,3 +12,4 @@ title: THM Writeups
 - [BountyHacker](/THMWriteups/writeups/BountyHacker)
 - [Wonderland](/THMWriteups/writeups/Wonderland)
 - [Mustacchio](/THMWriteups/writeups/Mustacchio)
+- [LazyAdmin](/THMWriteups/writeups/LazyAdmin)
