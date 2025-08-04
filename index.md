@@ -13,3 +13,4 @@ title: THM Writeups
 - [Wonderland](/THMWriteups/writeups/Wonderland)
 - [Mustacchio](/THMWriteups/writeups/Mustacchio)
 - [LazyAdmin](/THMWriteups/writeups/LazyAdmin)
+- [Internal](/THMWriteups/writeups/Internal)
