@@ -14,3 +14,4 @@ title: THM Writeups
 - [Mustacchio](/THMWriteups/writeups/Mustacchio)
 - [LazyAdmin](/THMWriteups/writeups/LazyAdmin)
 - [Internal](/THMWriteups/writeups/Internal)
+- [Biohazard](/THMWriteups/writeups/Biohazard)
