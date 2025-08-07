@@ -3,7 +3,12 @@ layout: default
 title: THM Writeups
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3960948" style='border:none;'></iframe>
+<div style="position: relative; padding-bottom: 40%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3960948" 
+    style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border: none;"
+  ></iframe>
+</div>
 
 - [Basic Pentesting](/THMWriteups/writeups/BasicPentesting)
 - [DiskAnalysis&Autopsy](/THMWriteups/writeups/DiskAnalysis&Autopsy)
