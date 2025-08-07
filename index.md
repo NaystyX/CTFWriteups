@@ -3,6 +3,8 @@ layout: default
 title: THM Writeups
 ---
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3960948" style='border:none;'></iframe>
+
 - [Basic Pentesting](/THMWriteups/writeups/BasicPentesting)
 - [DiskAnalysis&Autopsy](/THMWriteups/writeups/DiskAnalysis&Autopsy)
 - [MrRobotCTF](/THMWriteups/writeups/MrRobotCTF)
