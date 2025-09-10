@@ -22,3 +22,4 @@ title: THM Writeups
 - [LazyAdmin](/THMWriteups/writeups/LazyAdmin)
 - [Internal](/THMWriteups/writeups/Internal)
 - [Biohazard](/THMWriteups/writeups/Biohazard)
+- [Tomghost](/THMWriteups/writeups/tomghost)
