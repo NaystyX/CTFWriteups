@@ -11,7 +11,7 @@ title: THM Writeups
 </div>
 
 <ul>
-  <li><a href="writeups/BasicPentesting.md">Basic Pentesting</a></li>
+  <li><a href="writeups/BasicPentesting">Basic Pentesting</a></li>
   <li><a href="writeups/DiskAnalysis&Autopsy.md">DiskAnalysis & Autopsy</a></li>
   <li><a href="writeups/MrRobotCTF.md">MrRobotCTF</a></li>
   <li><a href="writeups/PickleRick.md">PickleRick</a></li>
