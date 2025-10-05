@@ -18,18 +18,18 @@ title: CTF Writeups
   <h2>My CTF Writeups</h2>
   <p>Writing CTF exercise solutions and my thoughts on how to solve them</p>
 
-- [Basic Pentesting](/THMWriteups/writeups/BasicPentesting)
-- [DiskAnalysis&Autopsy](/THMWriteups/writeups/DiskAnalysis&Autopsy)
-- [MrRobotCTF](/THMWriteups/writeups/MrRobotCTF)
-- [PickleRick](/THMWriteups/writeups/PickleRick)
-- [RootMe](/THMWriteups/writeups/RootMe)
-- [SimpleCTF](/THMWriteups/writeups/SimpleCTF)
-- [BountyHacker](/THMWriteups/writeups/BountyHacker)
-- [Wonderland](/THMWriteups/writeups/Wonderland)
-- [Mustacchio](/THMWriteups/writeups/Mustacchio)
-- [LazyAdmin](/THMWriteups/writeups/LazyAdmin)
-- [Internal](/THMWriteups/writeups/Internal)
-- [Biohazard](/THMWriteups/writeups/Biohazard)
-- [Tomghost](/THMWriteups/writeups/tomghost)
+- [Basic Pentesting](/CTFWriteups/writeups/BasicPentesting)
+- [DiskAnalysis&Autopsy](/CTFWriteups/writeups/DiskAnalysis&Autopsy)
+- [MrRobotCTF](/CTFWriteups/writeups/MrRobotCTF)
+- [PickleRick](/CTFWriteups/writeups/PickleRick)
+- [RootMe](/CTFWriteups/writeups/RootMe)
+- [SimpleCTF](/CTFWriteups/writeups/SimpleCTF)
+- [BountyHacker](/CTFWriteups/writeups/BountyHacker)
+- [Wonderland](/CTFWriteups/writeups/Wonderland)
+- [Mustacchio](/CTFWriteups/writeups/Mustacchio)
+- [LazyAdmin](/CTFWriteups/writeups/LazyAdmin)
+- [Internal](/CTFWriteups/writeups/Internal)
+- [Biohazard](/CTFWriteups/writeups/Biohazard)
+- [Tomghost](/CTFWriteups/writeups/tomghost)
 
 </div>
