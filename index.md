@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CTF Writeups
+title: THM Writeups
 ---
 
 <div style="display: flex; gap: 30px; align-items: flex-start;">
