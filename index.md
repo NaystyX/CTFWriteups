@@ -1,6 +1,6 @@
 ---
 layout: default
-title: THM Writeups
+title: CTF Writeups
 ---
 
 - [Basic Pentesting](/THMWriteups/writeups/BasicPentesting)
