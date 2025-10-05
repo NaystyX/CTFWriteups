@@ -1,4 +1,4 @@
-# THMWriteups
-Writing THM excersise solvings here and my thoughts on how to solve them
+# CTF Writeups
+Writing CTF excersise solvings here and my thoughts on how to solve them
 
-https://naystyx.github.io/THMWriteups/
+https://naystyx.github.io/CTFWriteups/

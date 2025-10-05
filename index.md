@@ -1,6 +1,6 @@
 ---
 layout: default
-title: THM Writeups
+title: CTF Writeups
 ---
 
 <div style="position: relative; padding-bottom: 30%; height: 0; overflow: hidden; max-width: 100%;">
