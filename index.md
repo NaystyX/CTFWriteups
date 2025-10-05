@@ -12,16 +12,16 @@ title: THM Writeups
 
 <ul>
   <li><a href="writeups/BasicPentesting">Basic Pentesting</a></li>
-  <li><a href="writeups/DiskAnalysis&Autopsy.md">DiskAnalysis & Autopsy</a></li>
-  <li><a href="writeups/MrRobotCTF.md">MrRobotCTF</a></li>
-  <li><a href="writeups/PickleRick.md">PickleRick</a></li>
-  <li><a href="writeups/RootMe.md">RootMe</a></li>
-  <li><a href="writeups/SimpleCTF.md">SimpleCTF</a></li>
-  <li><a href="writeups/BountyHacker.md">BountyHacker</a></li>
-  <li><a href="writeups/Wonderland.md">Wonderland</a></li>
-  <li><a href="writeups/Mustacchio.md">Mustacchio</a></li>
-  <li><a href="writeups/LazyAdmin.md">LazyAdmin</a></li>
-  <li><a href="writeups/Internal.md">Internal</a></li>
-  <li><a href="writeups/Biohazard.md">Biohazard</a></li>
-  <li><a href="writeups/tomghost.md">Tomghost</a></li>
+  <li><a href="writeups/DiskAnalysis&Autopsy">DiskAnalysis & Autopsy</a></li>
+  <li><a href="writeups/MrRobotCTF">MrRobotCTF</a></li>
+  <li><a href="writeups/PickleRick">PickleRick</a></li>
+  <li><a href="writeups/RootMe">RootMe</a></li>
+  <li><a href="writeups/SimpleCTF">SimpleCTF</a></li>
+  <li><a href="writeups/BountyHacker">BountyHacker</a></li>
+  <li><a href="writeups/Wonderland">Wonderland</a></li>
+  <li><a href="writeups/Mustacchio">Mustacchio</a></li>
+  <li><a href="writeups/LazyAdmin">LazyAdmin</a></li>
+  <li><a href="writeups/Internal">Internal</a></li>
+  <li><a href="writeups/Biohazard">Biohazard</a></li>
+  <li><a href="writeups/tomghost">Tomghost</a></li>
 </ul>
