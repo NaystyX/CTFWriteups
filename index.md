@@ -18,7 +18,7 @@ title: CTF Writeups
   <h2>My CTF Writeups</h2>
   <p>Writing CTF exercise solutions and my thoughts on how to solve them</p>
 
-- [Basic Pentesting](/CTFWriteups/writeups/BasicPentesting)
+- [Basic Pentesting](writeups/BasicPentesting)
 - [DiskAnalysis&Autopsy](/CTFWriteups/writeups/DiskAnalysis&Autopsy)
 - [MrRobotCTF](/CTFWriteups/writeups/MrRobotCTF)
 - [PickleRick](/CTFWriteups/writeups/PickleRick)
